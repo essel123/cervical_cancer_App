@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356298566501",
+    "project_id": "cervical-cancer-c2f7c",
+    "storage_bucket": "cervical-cancer-c2f7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356298566501:android:e31c61dddb6c54ec144f8c",
+        "android_client_info": {
+          "package_name": "com.example.cervical_cancer_prediction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzEP_LrG84gYiHh3U8gdd2BOTBcXNHj7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
